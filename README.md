@@ -4,6 +4,7 @@
 
 My personal OpenCore configuration for running Hackintosh (MacOs Ventura) on my Asus B250M Plus and i7 7700K.
 It contains patchers for AMD RX560 and is able to boot Arch Linux.
+It supports OpenCanopy for customizing the GUI
 
 # # Update
 
@@ -49,8 +50,6 @@ It contains patchers for AMD RX560 and is able to boot Arch Linux.
 - OS Type: Windows 8.1/10 UEFI Mode
 - DVMT Pre-Allocated(iGPU Memory): 64MB
 - SATA Mode: AHCI
-
-## Working status
 
 ### Work normally:
 
