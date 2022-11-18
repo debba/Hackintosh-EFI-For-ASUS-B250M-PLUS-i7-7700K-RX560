@@ -67,7 +67,7 @@ It contains patchers for AMD RX560 and is able to boot Arch Linux.
 
 # # Thanks To
 
-- [zsyshuyang](https://github.com/zsyshuyang/Hackintosh-EFI-For-ASUS-B250M-PLUS-i5-7500-RX580/blob/master/README.md)
+- [zsyshuyang](https://github.com/zsyshuyang/Hackintosh-EFI-For-ASUS-B250M-PLUS-i5-7500-RX580)
 - [acidanthera](https://github.com/acidanthera)
 - [daliansky](https://github.com/daliansky/)
 - [Mrliu12123](http://bbs.pcbeta.com/viewthread-1851046-1-1.html)
